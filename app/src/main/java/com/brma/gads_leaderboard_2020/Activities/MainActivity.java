@@ -1,8 +1,10 @@
-package com.brma.gads_leaderboard_2020;
+package com.brma.gads_leaderboard_2020.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.brma.gads_leaderboard_2020.R;
 
 public class MainActivity extends AppCompatActivity {
 
